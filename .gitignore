@@ -1,0 +1,21 @@
+# Build artifacts (Compiled binaries)
+*.pdb
+*.dll
+
+# Local User Configurations (Contains private paths and Webhooks)
+config.json
+
+# Local Test Folders
+/backup-new/
+/backup-old/
+/photo_work/
+/WatermarkInput/
+/WatermarkOutput/
+
+# IDE & OS files
+.vs/
+.idea/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini
