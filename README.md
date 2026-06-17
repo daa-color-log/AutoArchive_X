@@ -1,7 +1,7 @@
 # AutoArchiveX
 
 > [!TIP]
-> ### 📥 **[Download AutoArchive_X.exe (Direct Link)](./AutoArchive_X.exe)**
+> ### 📥 **[Download AutoArchive_X.exe (Direct Link)](https://github.com/daa-color-log/AutoArchive_X/raw/main/AutoArchive_X.exe)**
 > You can download the compiled executable directly and run it on Windows instantly.
 
 AutoArchiveX is a premium, high-performance WPF-based desktop application designed for automated media archiving, file organization, and metadata imprinting. It offers a professional dashboard for handling large batches of images and files seamlessly.
